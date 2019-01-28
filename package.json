@@ -1,0 +1,23 @@
+{
+  "name": "database-comparison",
+  "version": "1.0.0",
+  "description": "An online tool for database compaisons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harish321/Database-comparison.git"
+  },
+  "author": "Harish Dhulipalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harish321/Database-comparison/issues"
+  },
+  "homepage": "https://github.com/Harish321/Database-comparison#readme",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "q": "^1.5.1"
+  }
+}
